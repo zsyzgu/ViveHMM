@@ -1,0 +1,2 @@
+启动场景前先启动HMM服务器'Server.py'
+将Net.cs挂到场景中之后，通过HmmClient类进行交互即可
